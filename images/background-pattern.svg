@@ -1,0 +1,20 @@
+<svg width="1312" height="474" viewBox="0 0 1312 474" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g opacity="0.4">
+    <path d="M0 0H1312V474H0V0Z" fill="url(#pattern0)"/>
+    <path d="M0 0H1312V474H0V0Z" fill="url(#paint0)"/>
+    <path d="M0 0H1312V474H0V0Z" fill="url(#paint1)"/>
+  </g>
+  <defs>
+    <linearGradient id="paint0" x1="515.75" y1="70.737" x2="515.809" y2="495.29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2F1F0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F2F1F0"/>
+    </linearGradient>
+    <linearGradient id="paint1" x1="679.916" y1="50.4309" x2="426.191" y2="197.18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2F1F0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F2F1F0"/>
+    </linearGradient>
+    <pattern id="pattern0" patternUnits="userSpaceOnUse" patternTransform="matrix(4.1008 0 0 4.1008 0 0)" preserveAspectRatio="none" viewBox="0 0 4.66 4.66" width="1" height="1">
+      <circle cx="1" cy="1" r="1" fill="#E5E3E1"/>
+    </pattern>
+  </defs>
+</svg>
